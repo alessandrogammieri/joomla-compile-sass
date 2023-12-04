@@ -1,0 +1,10 @@
+{
+    "name": "joomla",
+    "version": "5.0.2",
+    "description": "Joomla CMS",
+    "license": "GPL-2.0-or-later",
+    "devDependencies": {
+        "sass": "^1.69.5",
+        "vite": "^5.0.0"
+    }
+}

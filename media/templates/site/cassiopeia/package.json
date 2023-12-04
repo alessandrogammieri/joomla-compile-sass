@@ -1,0 +1,12 @@
+{
+    "name": "cassiopeia",
+    "private": true,
+    "version": "5.0.2",
+    "description": "Joomla CMS",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build --emptyOutDir",
+        "preview": "vite preview"
+    }
+}
