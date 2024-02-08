@@ -2,13 +2,13 @@
 Il progetto "Compilatore Sass per Joomla 4 con Vite JS" è stato creato per semplificare il processo di compilazione dei fogli di stile Sass all'interno del CMS Joomla 4, sfruttando la potenza e la velocità di Vite JS.
 
 <div align="center">
-  <a href="https://github.com/joomla/joomla-cms">
+  <a style="text-decoration: none;" href="https://github.com/joomla/joomla-cms">
     <img src="https://www.joomla.it/images/immagini/sampledata/Joomla-flat-logo-en.png" alt="Logo Joomla" width="100" height="100">
   </a>
-  <a href="https://github.com/vitejs/vite">
+  <a style="text-decoration: none;" href="https://github.com/vitejs/vite">
     <img src="https://vitejs.dev/logo.svg" alt="Logo Vite JS" width="100" height="100">
   </a>
-  <a href="https://github.com/sass/sass">
+  <a style="text-decoration: none;" href="https://github.com/sass/sass">
     <img src="https://rawgit.com/sass/sass-site/main/source/assets/img/logos/logo.svg" alt="Logo Sass" width="100" height="100">
   </a>
 </div>
@@ -26,8 +26,9 @@ Questo progetto fornisce un'interfaccia semplificata per la compilazione automat
 ## Prerequisiti
 Prima di utilizzare questo progetto, assicurati di soddisfare i seguenti prerequisiti:
 
-* **Joomla 4**: Verifica di utilizzare la versione raccomandata di PHP 8.2.
-* **Vite JS**: Assicurati di avere installata una versione di Node.js pari a 18.0.0 o superiore, ma inferiore a 20.0.0.
+> [!WARNING]
+> **Joomla 4**: Verifica di utilizzare la versione raccomandata di PHP 8.2.
+> **Vite JS**: Assicurati di avere installata una versione di Node.js pari a 18.0.0 o superiore, ma inferiore a 20.0.0.
 
 ## Come Iniziare
 Segui le istruzioni nel README per installare e configurare il compilatore Sass con Vite JS all'interno del tuo progetto Joomla. Inizia a sfruttare i vantaggi di una compilazione veloce e di un flusso di lavoro ottimizzato per lo sviluppo frontend.
